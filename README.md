@@ -1,2 +1,2 @@
 # lorca_d9-1.x
-A demo/starter kit for a retro/dark portal or office app in Drupal 9.
+A Drupal 9 theme for a retro/dark portal or office app using Bootstrap 5.
